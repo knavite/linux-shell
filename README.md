@@ -2,9 +2,13 @@
 ## Prerequisite
 
 The GNU Readline library must be installed in the System to compile the Shell Code. It can be installed using the following command:
+
 ```sudo apt-get install libreadline6 libreadline6-dev```
+
 After installation, shell can be compiled as follow:
+
 ```gcc shell.c –lreadline```
+
 ## Supported Features
 
 ### History:
